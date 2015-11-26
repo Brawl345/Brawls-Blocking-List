@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SmAzaxdA/pi4TgigwOy07A==
+! Checksum: tjhbUspnn9B3MK5WKTcmMA==
 ! Title: Brawls Blocking List
-! Last Modified: 26 Nov 2015 05:38 +00:00
+! Last Modified: 26 Nov 2015 06:07 +00:00
 ! Expires: 3 days (update frequency)
 ! Homepage: http://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
@@ -27,6 +27,7 @@ borncity.com##DIV[style="float:none;margin:10px 0 10px 0;text-align:center;"]
 borncity.com##DIV[style="float:none;margin:2px 0 2px 0;text-align:center;"]
 curvefever.com###mess_us
 curvefever.com###messbottom
+de-mg42.mail.yahoo.com##.newsfeed-item.newsfeed-mb-ad
 de.nachrichten.yahoo.com###mediabcarouselmixedlpca
 de.nachrichten.yahoo.com###mediabcarouselmixedlpca_2
 de.nachrichten.yahoo.com###mediaiframe
