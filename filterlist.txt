@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /VoRvWmMfapYnlVAH/xpHQ==
+! Checksum: mLstsrekAytbkviJvxPxfQ==
 ! Title: Brawls Blocking List
-! Last Modified: 28 Nov 2015 07:52 +00:00
+! Last Modified: 02 Dez 2015 09:06 +00:00
 ! Expires: 3 days (update frequency)
 ! Homepage: http://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
@@ -91,6 +91,8 @@ mega.nz##.ads-left-block.ads-enabled
 mega.nz##.ads-right-block
 mega.nz##.products-slides-block.products-laptop.active
 messenger.com##._s15
+mimikama.at##DIV[style="font-size: 9px; color: #bbbbbb; text-align: center;"]
+mimikama.at##HR[style="border-left-width: 0px; border-top: #aaa 1px solid; height: 1px; border-right-width: 0px; border-bottom-width: 0px; margin: 1em 0px; display: block; padding: 0px;"]
 minus.com###app-promo-header
 mobiflip.de##.asadivmain
 mobiflip.de##.email-share
@@ -134,3 +136,4 @@ xbox360iso.com###notices
 xbox360iso.com##div[style="color:#FFFFFF;margin-top:15px;padding: 10px 20px;font-size: 16px;letter-spacing: 1px;font-family: sans-serif;"]
 youtube.com##.branded-page-related-channels.branded-page-box.yt-card
 youtube.com##.branded-page-v2-secondary-col
+youtube.com##.yt-alert.yt-alert-default.yt-alert-success.proxtube-success
