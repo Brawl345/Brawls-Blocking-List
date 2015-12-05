@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mLstsrekAytbkviJvxPxfQ==
+! Checksum: CeOoOGjXl89/rBp8pjk40A==
 ! Title: Brawls Blocking List
-! Last Modified: 02 Dez 2015 09:06 +00:00
+! Last Modified: 05 Dez 2015 08:34 +00:00
 ! Expires: 3 days (update frequency)
 ! Homepage: http://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
@@ -19,6 +19,7 @@ agar.io###adbg
 agar.io##.agario-promo
 agar.io##.text-muted[data-itr="advertisement"]
 api.flattr.com
+archive.org###donate-banner
 blogs.opera.com###download-iframe--sticky-bar
 blu-rayiso.com###notices
 blu-rayiso.com##.facebooklike
