@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qK8BXOvhlD+N7cMiQjnRzQ==
+! Checksum: pfluzujGUgNKMLjKFCYE5A==
 ! Title: Brawls Blocking List
-! Last Modified: 05 Dez 2015 08:44 +00:00
+! Last Modified: 06 Dez 2015 06:11 +00:00
 ! Expires: 3 days (update frequency)
 ! Homepage: https://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
@@ -55,6 +55,8 @@ fastwp.de###share
 fastwp.de##.top
 faz.net###TopBlock5
 faz.net###dertagbox
+forum.chip.de##.kx-ad-logo
+forum.chip.de##.kx-logo-container
 forum.golem.de###abo-clip
 forum.golem.de###gservices
 forum.golem.de##.social-flattr.bar-margin
