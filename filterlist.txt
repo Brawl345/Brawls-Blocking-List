@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: pfluzujGUgNKMLjKFCYE5A==
+! Checksum: 2L42EEMCC6El0AYbFHEUfg==
 ! Title: Brawls Blocking List
-! Last Modified: 06 Dez 2015 06:11 +00:00
+! Last Modified: 07 Dez 2015 04:18 +00:00
 ! Expires: 3 days (update frequency)
 ! Homepage: https://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
@@ -66,6 +66,8 @@ g4u.me###error
 geo.de###veeseoRA2AW_BCN
 geo.de##.lp_mwi_dialog-overlay.lp_mwi_dialog-overlay--is-active
 geo.de##.lp_mwi_dialog-wrapper
+giga.de###holder_Bottom_pi_pfeil_74723
+giga.de###specialteaser-banderole-77
 gload.cc##.mnewsbg
 gload.cc##.topprem[href="http://gload.cc/goprem.html"]
 gload.cc##IMG[src="http://gload.cc/images/highspeed.gif"]
