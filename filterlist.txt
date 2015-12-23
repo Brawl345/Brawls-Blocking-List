@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IxKcZg1mt3jRKJnCE19YaA==
+! Checksum: QDz6tPepggC6nd+tsLF7Ew==
 ! Title: Brawls Blocking List
-! Last Modified: 11 Dez 2015 08:56 +00:00
+! Last Modified: 23 Dez 2015 07:32 +00:00
 ! Expires: 3 days (update frequency)
 ! Homepage: https://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
@@ -83,6 +83,7 @@ golem.de##DIV[style="height:30px;margin-bottom:1em;"]
 golem.de##DIV[style="margin:0 0 1em"]
 golem.de##DIV[style="margin:15px 0; min-height:266px;"]
 golem.de##IMG[src="http://www.golem.de/microsite/abo/trial/socialLeiste_Abo_7_2_120x23px.jpg"]
+google.de##.gb_ea.gb_g
 gronkh-wiki.de##.adsdeaktiviert
 hearthis.at##IMG[src="/_/images/ribbon.png"]
 heise.de###teaser_newsletter_2014
