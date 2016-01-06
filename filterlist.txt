@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QDz6tPepggC6nd+tsLF7Ew==
+! Checksum: Dl+BQ4yFEmRe0qloylFwNA==
 ! Title: Brawls Blocking List
-! Last Modified: 23 Dez 2015 07:32 +00:00
+! Last Modified: 06 Jan 2016 11:26 +00:00
 ! Expires: 3 days (update frequency)
 ! Homepage: https://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
@@ -127,6 +127,7 @@ news.softpedia.com###flashsale
 news.softpedia.com##.fa.fa-heart.nosel
 news.softpedia.com##IMG[src="http://www.softpedia.com/spyshelter2.png?2"]
 notebooksbilliger.de##.alternativeLink
+opera.com###download-iframe--sticky-bar
 opera.com###promoasset-iframe--bar-download
 opera.com##.download-sticky-bar
 pastebin.com##DIV[style="cursor:pointer;background: #eee url(/i/ab_bg.png) no-repeat center; background-color: #fff; width:728px; height:80px; margin-bottom:10px;border:1px solid #000000; text-align:center;padding-top: 10px;border:0;"]
