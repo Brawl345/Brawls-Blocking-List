@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BPK4wsENNSBcZ+Dh47eGzA==
+! Checksum: p3Kggx9U8C8apotZWt9xdA==
 ! Title: Brawls Blocking List
-! Last Modified: 11 Jan 2016 09:30 +00:00
+! Last Modified: 23 Jan 2016 11:27 +00:00
 ! Expires: 3 days (update frequency)
 ! Homepage: https://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
@@ -143,6 +143,9 @@ rapid-games.org###text-11
 rapid-games.org###text-13
 rapid-games.org###wnb-bar
 smashboards.com###noticeMain
+soeren-hentzschel.at##.footer-tnemesitrevda
+soeren-hentzschel.at##.textlinks
+soeren-hentzschel.at##.tnemesitrevda
 softpedia.com###flashsale
 softpedia.com##.fa.fa-heart.nosel
 softpedia.com##IMG[width="336"][border="0"][height="280"]
