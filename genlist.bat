@@ -1,1 +1,1 @@
-java -jar genlist/target/genlist-0.1.0-SNAPSHOT-standalone.jar -f filterlist.txt
+java -jar genlist.jar -f filterlist.txt

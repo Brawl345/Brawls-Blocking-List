@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: f5zWfR8yx9EavG5pxFv/kA==
+! Checksum: Je6ROCIM3w0Uc7SdkTgqhw==
 ! Title: Brawls Blocking List
-! Last Modified: 25 Jan 2016 01:06 +00:00
-! Expires: 3 days (update frequency)
+! Last Modified: 10 Nov 2016 01:20 +00:00
+! Expires: 14 days (update frequency)
 ! Homepage: https://andibi.tk/abp.php
 ! License: https://www.mozilla.org/MPL/2.0/
 !
@@ -88,7 +88,6 @@ golem.de##DIV[style="height:30px;margin-bottom:1em;"]
 golem.de##DIV[style="margin:0 0 1em"]
 golem.de##DIV[style="margin:15px 0; min-height:266px;"]
 golem.de##IMG[src="http://www.golem.de/microsite/abo/trial/socialLeiste_Abo_7_2_120x23px.jpg"]
-google.de##.gb_ea.gb_g
 gronkh-wiki.de##.adsdeaktiviert
 hearthis.at##IMG[src="/_/images/ribbon.png"]
 heise.de###teaser_newsletter_2014
@@ -110,16 +109,12 @@ mediafire.com##.onBoardingBar
 mega##.ads-left-block.new-ads
 mega##.ads-right-block
 mega##.products-slides-block.products-laptop.active
-mega.co.nz##.ads-left-block.ads-enabled
-mega.co.nz##.ads-right-block
-mega.co.nz##.products-slides-block.products-laptop.active
 mega.nz##.ads-left-block.ads-enabled
 mega.nz##.ads-right-block
 mega.nz##.products-slides-block.products-laptop.active
 messenger.com##._s15
 mimikama.at##DIV[style="font-size: 9px; color: #bbbbbb; text-align: center;"]
 mimikama.at##HR[style="border-left-width: 0px; border-top: #aaa 1px solid; height: 1px; border-right-width: 0px; border-bottom-width: 0px; margin: 1em 0px; display: block; padding: 0px;"]
-minus.com###app-promo-header
 mobiflip.de##.asadivmain
 mobiflip.de##.email-share
 mobiflip.de##.mobitop970
